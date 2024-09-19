@@ -1,7 +1,9 @@
 name: ndmob
-description: "Easy Admob Banner, Native and Interstitial"
-version: 0.0.1
-homepage:
+description: "Easy Admob Banner, Native and Interstitial, only supported android and iOS."
+version: 0.0.2
+homepage: https://github.com/naing-pyae-hlyan/ndmob
+issue_tracker: https://github.com/naing-pyae-hlyan/ndmob/issues
+repository: https://github.com/naing-pyae-hlyan/ndmob
 
 environment:
   sdk: ^3.5.2
@@ -16,5 +18,3 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
-
-flutter:

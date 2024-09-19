@@ -2,7 +2,6 @@ library ndmob;
 
 import 'package:ndmob/admob/_exp.dart';
 
-/// A Calculator.
 class Ndmob {
   static late AdmobManager _manager;
 
